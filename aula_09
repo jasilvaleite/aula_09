@@ -1,0 +1,5 @@
+git init
+git config user.name Nome
+git config user.email Email
+git add --all
+git commit -m "criado o arquivo comandos.txt"
